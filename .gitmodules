@@ -4,3 +4,6 @@
 [submodule "SithylisQoL"]
 	path = SithylisQoL
 	url = https://github.com/DetectiveSquirrel/SithylisQoL
+[submodule "Pickit"]
+	path = Pickit
+	url = https://github.com/DetectiveSquirrel/Pickit
