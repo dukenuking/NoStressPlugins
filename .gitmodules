@@ -1,3 +1,6 @@
 [submodule "BasicFlaskRoutine"]
 	path = BasicFlaskRoutine
 	url = https://github.com/sychotixdev/BasicFlaskRoutine
+[submodule "SithylisQoL"]
+	path = SithylisQoL
+	url = https://github.com/DetectiveSquirrel/SithylisQoL
